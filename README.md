@@ -1,6 +1,6 @@
 #psql-testdb-evolutions
 ### What is
-psql-testdb-evolutions is a light weight database migrations tool that allows you to rebuild your test database with one click. The name of this tool is my tribute to play-evolutions, the first ever database migrations tool that I used.
+psql-testdb-evolutions is a light weight database migrations tool for quickly rebuilding a test database.
 
 ###How to use
 1) Copy files setup_evolutions.sh and run_evolutions.sh to any same folder in your project. 
